@@ -2,6 +2,15 @@
 // Date : Dec-31-25 at 9.45pm Indian Standard Time
 // Description : To make a Bank-Account-System though C-Programming
 
+// Algorithm
+/*
+ * 1.Start Program
+ * 2.Open Option_menu
+ * 3.Select_Option
+ * 4.Process Option
+ * 5.Exit
+ */
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
